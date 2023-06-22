@@ -53,4 +53,14 @@ Grandes telas: acima de 1200
         float: left;
         width: 50%;
     }
+
+    div#formulario > h1 {
+        text-align: center;
+        padding: 15px;
+        font-size: 2em;
+    }
+    
+    div#formulario > p {
+        font-size: 1.1em;
+    }
 }
