@@ -9,6 +9,11 @@ Desktop: de 992px até 1200
 Grandes telas: acima de 1200
 */
 
+:root {
+    --corverd: #49a09d;
+    --corrox: #5f2c82;
+}
+
 @media screen and (min-width: 768px) and (max-width: 992px) {
 
     body {
